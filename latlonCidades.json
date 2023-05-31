@@ -1,0 +1,6365 @@
+[
+    {
+        "address": "Antonio Carlos, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.3959903717041,
+                -48.723018646240234
+            ],
+            "southwest": [
+                -27.575403213500977,
+                -48.92401123046875
+            ]
+        },
+        "city": "Antonio Carlos",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.5168457,
+        "lng": -48.76847076,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.575403213500977,
+                -48.92401123046875,
+                -27.3959903717041,
+                -48.723018646240234
+            ],
+            "name": "Antônio Carlos, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.5168457,
+                    -48.76847076
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Antônio Carlos, Brazil",
+                "locality": "Antônio Carlos"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.5168457,
+                        -48.76847076
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Araquari, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.28598976135254,
+                -48.6502571105957
+            ],
+            "southwest": [
+                -26.59906005859375,
+                -48.908546447753906
+            ]
+        },
+        "city": "Araquari",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.37033272,
+        "lng": -48.72109985,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.59906005859375,
+                -48.908546447753906,
+                -26.28598976135254,
+                -48.6502571105957
+            ],
+            "name": "Araquari, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.37033272,
+                    -48.72109985
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Araquari, Brazil",
+                "locality": "Araquari"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.37033272,
+                        -48.72109985
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Ararangua, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.832990646362305,
+                -49.290184020996094
+            ],
+            "southwest": [
+                -29.058359146118164,
+                -49.62382125854492
+            ]
+        },
+        "city": "Ararangua",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.93488312,
+        "lng": -49.48583984,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -29.058359146118164,
+                -49.62382125854492,
+                -28.832990646362305,
+                -49.290184020996094
+            ],
+            "name": "Araranguá, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.93488312,
+                    -49.48583984
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Araranguá, Brazil",
+                "locality": "Araranguá"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.93488312,
+                        -49.48583984
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Balneario Arroio do Silva, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.94159507751465,
+                -49.37737274169922
+            ],
+            "southwest": [
+                -29.09334945678711,
+                -49.563968658447266
+            ]
+        },
+        "city": "Balneario Arroio do Silva",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -28.98152733,
+        "lng": -49.4189949,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -29.09334945678711,
+                -49.563968658447266,
+                -28.94159507751465,
+                -49.37737274169922
+            ],
+            "name": "Balneário Arroio do Silva, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.98152733,
+                    -49.4189949
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Balneário Arroio do Silva, Brazil",
+                "locality": "Balneário Arroio do Silva"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.98152733,
+                        -49.4189949
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Balneario Barra do Sul, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.36005210876465,
+                -48.594303131103516
+            ],
+            "southwest": [
+                -26.546545028686523,
+                -48.71200942993164
+            ]
+        },
+        "city": "Balneario Barra do Sul",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -26.45984268,
+        "lng": -48.60614777,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.546545028686523,
+                -48.71200942993164,
+                -26.36005210876465,
+                -48.594303131103516
+            ],
+            "name": "Balneário Barra do Sul, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.45984268,
+                    -48.60614777
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Balneário Barra do Sul, Brazil",
+                "locality": "Balneário Barra do Sul"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.45984268,
+                        -48.60614777
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Balneario Camboriu, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.954181671142578,
+                -48.56897735595703
+            ],
+            "southwest": [
+                -27.06112289428711,
+                -48.68293380737305
+            ]
+        },
+        "city": "Balneario Camboriu",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -26.99243927,
+        "lng": -48.6339798,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.06112289428711,
+                -48.68293380737305,
+                -26.954181671142578,
+                -48.56897735595703
+            ],
+            "name": "Balneário Camboriú, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.99243927,
+                    -48.6339798
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Balneário Camboriú, Brazil",
+                "locality": "Balneário Camboriú"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.99243927,
+                        -48.6339798
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Balneario Picarras, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.70499038696289,
+                -48.66069793701172
+            ],
+            "southwest": [
+                -26.814550399780273,
+                -48.81700897216797
+            ]
+        },
+        "city": "Balneario Picarras",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -26.76388931,
+        "lng": -48.67166519,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.814550399780273,
+                -48.81700897216797,
+                -26.70499038696289,
+                -48.66069793701172
+            ],
+            "name": "Balneário Piçarras, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.76388931,
+                    -48.67166519
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Balneário Piçarras, Brazil",
+                "locality": "Balneário Piçarras"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.76388931,
+                        -48.67166519
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Balneario Rincao, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.770978927612305,
+                -49.1877326965332
+            ],
+            "southwest": [
+                -28.883750915527344,
+                -49.33012771606445
+            ]
+        },
+        "city": "Balneario Rincao",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -28.82357216,
+        "lng": -49.22416306,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.883750915527344,
+                -49.33012771606445,
+                -28.770978927612305,
+                -49.1877326965332
+            ],
+            "name": "Balneário Rincão, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.82357216,
+                    -49.22416306
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Balneário Rincão, Brazil",
+                "locality": "Balneário Rincão"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.82357216,
+                        -49.22416306
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Biguacu, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.319990158081055,
+                -48.57398986816406
+            ],
+            "southwest": [
+                -27.544010162353516,
+                -48.83600997924805
+            ]
+        },
+        "city": "Biguacu",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.49612808,
+        "lng": -48.65424347,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.544010162353516,
+                -48.83600997924805,
+                -27.319990158081055,
+                -48.57398986816406
+            ],
+            "name": "Biguaçu, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.49612808,
+                    -48.65424347
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Biguaçu, Brazil",
+                "locality": "Biguaçu"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.49612808,
+                        -48.65424347
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Blumenau, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.612791061401367,
+                -49.0096435546875
+            ],
+            "southwest": [
+                -27.132009506225586,
+                -49.20072555541992
+            ]
+        },
+        "city": "Blumenau",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.91955757,
+        "lng": -49.06580353,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.132009506225586,
+                -49.20072555541992,
+                -26.612791061401367,
+                -49.0096435546875
+            ],
+            "name": "Blumenau, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.91955757,
+                    -49.06580353
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Blumenau, Brazil",
+                "locality": "Blumenau"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.91955757,
+                        -49.06580353
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Bombinhas, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.110363006591797,
+                -48.4631233215332
+            ],
+            "southwest": [
+                -27.221708297729492,
+                -48.58401107788086
+            ]
+        },
+        "city": "Bombinhas",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -27.1519165,
+        "lng": -48.4875679,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.221708297729492,
+                -48.58401107788086,
+                -27.110363006591797,
+                -48.4631233215332
+            ],
+            "name": "Bombinhas, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.1519165,
+                    -48.4875679
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Bombinhas, Brazil",
+                "locality": "Bombinhas"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.1519165,
+                        -48.4875679
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Braco do Norte, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.140832901000977,
+                -49.06698989868164
+            ],
+            "southwest": [
+                -28.358009338378906,
+                -49.27528762817383
+            ]
+        },
+        "city": "Braco do Norte",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.27286339,
+        "lng": -49.16226959,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.358009338378906,
+                -49.27528762817383,
+                -28.140832901000977,
+                -49.06698989868164
+            ],
+            "name": "Braço do Norte, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.27286339,
+                    -49.16226959
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Braço do Norte, Brazil",
+                "locality": "Braço do Norte"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.27286339,
+                        -49.16226959
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Brusque, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.998897552490234,
+                -48.78998947143555
+            ],
+            "southwest": [
+                -27.256010055541992,
+                -49.02334213256836
+            ]
+        },
+        "city": "Brusque",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.09646225,
+        "lng": -48.91363144,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.256010055541992,
+                -49.02334213256836,
+                -26.998897552490234,
+                -48.78998947143555
+            ],
+            "name": "Brusque, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.09646225,
+                    -48.91363144
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Brusque, Brazil",
+                "locality": "Brusque"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.09646225,
+                        -48.91363144
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Cacador, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.625253677368164,
+                -50.79609298706055
+            ],
+            "southwest": [
+                -26.903078079223633,
+                -51.411834716796875
+            ]
+        },
+        "city": "Cacador",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.7756691,
+        "lng": -51.01200485,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.903078079223633,
+                -51.411834716796875,
+                -26.625253677368164,
+                -50.79609298706055
+            ],
+            "name": "Caçador, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.7756691,
+                    -51.01200485
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Caçador, Brazil",
+                "locality": "Caçador"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.7756691,
+                        -51.01200485
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Camboriu, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.970989227294922,
+                -48.61056137084961
+            ],
+            "southwest": [
+                -27.155010223388672,
+                -48.81201171875
+            ]
+        },
+        "city": "Camboriu",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.02736092,
+        "lng": -48.65356445,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.155010223388672,
+                -48.81201171875,
+                -26.970989227294922,
+                -48.61056137084961
+            ],
+            "name": "Camboriú, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.02736092,
+                    -48.65356445
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Camboriú, Brazil",
+                "locality": "Camboriú"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.02736092,
+                        -48.65356445
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Campo Alegre, Brazil",
+        "bbox": {
+            "northeast": [
+                -25.983911514282227,
+                -48.95032501220703
+            ],
+            "southwest": [
+                -26.268634796142578,
+                -49.43143844604492
+            ]
+        },
+        "city": "Campo Alegre",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.19416809,
+        "lng": -49.26574707,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.268634796142578,
+                -49.43143844604492,
+                -25.983911514282227,
+                -48.95032501220703
+            ],
+            "name": "Campo Alegre, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.19416809,
+                    -49.26574707
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Campo Alegre, Brazil",
+                "locality": "Campo Alegre"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.19416809,
+                        -49.26574707
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Campo do Tenente, Brazil",
+        "bbox": {
+            "northeast": [
+                -25.88899040222168,
+                -49.532989501953125
+            ],
+            "southwest": [
+                -26.070096969604492,
+                -49.79219436645508
+            ]
+        },
+        "city": "Campo do Tenente",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -25.98141479,
+        "lng": -49.68451691,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.070096969604492,
+                -49.79219436645508,
+                -25.88899040222168,
+                -49.532989501953125
+            ],
+            "name": "Campo do Tenente, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -25.98141479,
+                    -49.68451691
+                ]
+            },
+            "address": {
+                "adminDistrict": "PR",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Campo do Tenente, Brazil",
+                "locality": "Campo do Tenente"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -25.98141479,
+                        -49.68451691
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "state": "PR",
+        "status": "OK"
+    },
+    {
+        "address": "Campos Novos, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.206262588500977,
+                -50.85184860229492
+            ],
+            "southwest": [
+                -27.633256912231445,
+                -51.612064361572266
+            ]
+        },
+        "city": "Campos Novos",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.39628983,
+        "lng": -51.22243881,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.633256912231445,
+                -51.612064361572266,
+                -27.206262588500977,
+                -50.85184860229492
+            ],
+            "name": "Campos Novos, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.39628983,
+                    -51.22243881
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Campos Novos, Brazil",
+                "locality": "Campos Novos"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.39628983,
+                        -51.22243881
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Canelinha, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.134990692138672,
+                -48.70098876953125
+            ],
+            "southwest": [
+                -27.359010696411133,
+                -48.89501190185547
+            ]
+        },
+        "city": "Canelinha",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.26603317,
+        "lng": -48.76667023,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.359010696411133,
+                -48.89501190185547,
+                -27.134990692138672,
+                -48.70098876953125
+            ],
+            "name": "Canelinha, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.26603317,
+                    -48.76667023
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Canelinha, Brazil",
+                "locality": "Canelinha"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.26603317,
+                        -48.76667023
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Canoinhas, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.001890182495117,
+                -50.29323196411133
+            ],
+            "southwest": [
+                -26.60958480834961,
+                -50.70486068725586
+            ]
+        },
+        "city": "Canoinhas",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.17551231,
+        "lng": -50.3949585,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.60958480834961,
+                -50.70486068725586,
+                -26.001890182495117,
+                -50.29323196411133
+            ],
+            "name": "Canoinhas, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.17551231,
+                    -50.3949585
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Canoinhas, Brazil",
+                "locality": "Canoinhas"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.17551231,
+                        -50.3949585
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Capivari de Baixo, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.38353729248047,
+                -48.894203186035156
+            ],
+            "southwest": [
+                -28.52619743347168,
+                -48.98605728149414
+            ]
+        },
+        "city": "Capivari de Baixo",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -28.44977379,
+        "lng": -48.9631424,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.52619743347168,
+                -48.98605728149414,
+                -28.38353729248047,
+                -48.894203186035156
+            ],
+            "name": "Capivari de Baixo, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.44977379,
+                    -48.9631424
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Capivari de Baixo, Brazil",
+                "locality": "Capivari de Baixo"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.44977379,
+                        -48.9631424
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Chapeco, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.988306045532227,
+                -52.480743408203125
+            ],
+            "southwest": [
+                -27.249574661254883,
+                -52.723628997802734
+            ]
+        },
+        "city": "Chapeco",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.09223557,
+        "lng": -52.61668777,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.249574661254883,
+                -52.723628997802734,
+                -26.988306045532227,
+                -52.480743408203125
+            ],
+            "name": "Chapecó, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.09223557,
+                    -52.61668777
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Chapecó, Brazil",
+                "locality": "Chapecó"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.09223557,
+                        -52.61668777
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Cocal do Sul, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.56235122680664,
+                -49.24216079711914
+            ],
+            "southwest": [
+                -28.637371063232422,
+                -49.40201187133789
+            ]
+        },
+        "city": "Cocal do Sul",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -28.60073471,
+        "lng": -49.32487106,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.637371063232422,
+                -49.40201187133789,
+                -28.56235122680664,
+                -49.24216079711914
+            ],
+            "name": "Cocal do Sul, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.60073471,
+                    -49.32487106
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Cocal do Sul, Brazil",
+                "locality": "Cocal do Sul"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.60073471,
+                        -49.32487106
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Concordia, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.10480308532715,
+                -51.78799057006836
+            ],
+            "southwest": [
+                -27.378538131713867,
+                -52.27863311767578
+            ]
+        },
+        "city": "Concordia",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.23120117,
+        "lng": -52.02310181,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.378538131713867,
+                -52.27863311767578,
+                -27.10480308532715,
+                -51.78799057006836
+            ],
+            "name": "Concórdia, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.23120117,
+                    -52.02310181
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Concórdia, Brazil",
+                "locality": "Concórdia"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.23120117,
+                        -52.02310181
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Corupa, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.307815551757812,
+                -49.158119201660156
+            ],
+            "southwest": [
+                -26.54834747314453,
+                -49.496009826660156
+            ]
+        },
+        "city": "Corupa",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.42671585,
+        "lng": -49.24747086,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.54834747314453,
+                -49.496009826660156,
+                -26.307815551757812,
+                -49.158119201660156
+            ],
+            "name": "Corupá, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.42671585,
+                    -49.24747086
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Corupá, Brazil",
+                "locality": "Corupá"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.42671585,
+                        -49.24747086
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Criciuma, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.633352279663086,
+                -49.24363327026367
+            ],
+            "southwest": [
+                -28.85523796081543,
+                -49.47747802734375
+            ]
+        },
+        "city": "Criciuma",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.67899323,
+        "lng": -49.36956406,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.85523796081543,
+                -49.47747802734375,
+                -28.633352279663086,
+                -49.24363327026367
+            ],
+            "name": "Criciúma, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.67899323,
+                    -49.36956406
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Criciúma, Brazil",
+                "locality": "Criciúma"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.67899323,
+                        -49.36956406
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Curitibanos, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.050500869750977,
+                -50.462276458740234
+            ],
+            "southwest": [
+                -27.504507064819336,
+                -50.770301818847656
+            ]
+        },
+        "city": "Curitibanos",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.29006577,
+        "lng": -50.5779686,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.504507064819336,
+                -50.770301818847656,
+                -27.050500869750977,
+                -50.462276458740234
+            ],
+            "name": "Curitibanos, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.29006577,
+                    -50.5779686
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Curitibanos, Brazil",
+                "locality": "Curitibanos"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.29006577,
+                        -50.5779686
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Florianopolis, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.378990173339844,
+                -48.35858154296875
+            ],
+            "southwest": [
+                -27.847009658813477,
+                -48.61301040649414
+            ]
+        },
+        "city": "Florianopolis",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.59729958,
+        "lng": -48.54961014,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.847009658813477,
+                -48.61301040649414,
+                -27.378990173339844,
+                -48.35858154296875
+            ],
+            "name": "Florianópolis, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.59729958,
+                    -48.54961014
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Florianópolis, Brazil",
+                "locality": "Florianópolis"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.59729958,
+                        -48.54961014
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Forquilhinha, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.712989807128906,
+                -49.406681060791016
+            ],
+            "southwest": [
+                -28.857820510864258,
+                -49.59552764892578
+            ]
+        },
+        "city": "Forquilhinha",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -28.74876022,
+        "lng": -49.47376633,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.857820510864258,
+                -49.59552764892578,
+                -28.712989807128906,
+                -49.406681060791016
+            ],
+            "name": "Forquilhinha, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.74876022,
+                    -49.47376633
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Forquilhinha, Brazil",
+                "locality": "Forquilhinha"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.74876022,
+                        -49.47376633
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Fraiburgo, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.872371673583984,
+                -50.6966438293457
+            ],
+            "southwest": [
+                -27.18508529663086,
+                -51.049774169921875
+            ]
+        },
+        "city": "Fraiburgo",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.02328873,
+        "lng": -50.9199791,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.18508529663086,
+                -51.049774169921875,
+                -26.872371673583984,
+                -50.6966438293457
+            ],
+            "name": "Fraiburgo, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.02328873,
+                    -50.9199791
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Fraiburgo, Brazil",
+                "locality": "Fraiburgo"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.02328873,
+                        -50.9199791
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Garopaba, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.944852828979492,
+                -48.5977668762207
+            ],
+            "southwest": [
+                -28.1170597076416,
+                -48.72364807128906
+            ]
+        },
+        "city": "Garopaba",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -28.02747917,
+        "lng": -48.62401962,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.1170597076416,
+                -48.72364807128906,
+                -27.944852828979492,
+                -48.5977668762207
+            ],
+            "name": "Garopaba, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.02747917,
+                    -48.62401962
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Garopaba, Brazil",
+                "locality": "Garopaba"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.02747917,
+                        -48.62401962
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Gaspar, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.776607513427734,
+                -48.843990325927734
+            ],
+            "southwest": [
+                -27.061180114746094,
+                -49.066009521484375
+            ]
+        },
+        "city": "Gaspar",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.93073082,
+        "lng": -48.95668411,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.061180114746094,
+                -49.066009521484375,
+                -26.776607513427734,
+                -48.843990325927734
+            ],
+            "name": "Gaspar, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.93073082,
+                    -48.95668411
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Gaspar, Brazil",
+                "locality": "Gaspar"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.93073082,
+                        -48.95668411
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Governador Celso Ramos, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.297950744628906,
+                -48.523094177246094
+            ],
+            "southwest": [
+                -27.448009490966797,
+                -48.634090423583984
+            ]
+        },
+        "city": "Governador Celso Ramos",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -27.31716156,
+        "lng": -48.55760956,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.448009490966797,
+                -48.634090423583984,
+                -27.297950744628906,
+                -48.523094177246094
+            ],
+            "name": "Governador Celso Ramos, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.31716156,
+                    -48.55760956
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Governador Celso Ramos, Brazil",
+                "locality": "Governador Celso Ramos"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.31716156,
+                        -48.55760956
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Guaramirim, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.373537063598633,
+                -48.831356048583984
+            ],
+            "southwest": [
+                -26.573986053466797,
+                -49.05143737792969
+            ]
+        },
+        "city": "Guaramirim",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.47447968,
+        "lng": -48.99811554,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.573986053466797,
+                -49.05143737792969,
+                -26.373537063598633,
+                -48.831356048583984
+            ],
+            "name": "Guaramirim, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.47447968,
+                    -48.99811554
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Guaramirim, Brazil",
+                "locality": "Guaramirim"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.47447968,
+                        -48.99811554
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Herval d'Oeste, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.113554000854492,
+                -51.28099060058594
+            ],
+            "southwest": [
+                -27.264009475708008,
+                -51.54058837890625
+            ]
+        },
+        "city": "Herval d'Oeste",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.17361069,
+        "lng": -51.49036407,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.264009475708008,
+                -51.54058837890625,
+                -27.113554000854492,
+                -51.28099060058594
+            ],
+            "name": "Herval d'Oeste, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.17361069,
+                    -51.49036407
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Herval d'Oeste, Brazil",
+                "locality": "Herval d'Oeste"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.17361069,
+                        -51.49036407
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Ibirama, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.890989303588867,
+                -49.455848693847656
+            ],
+            "southwest": [
+                -27.136184692382812,
+                -49.601470947265625
+            ]
+        },
+        "city": "Ibirama",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.0537014,
+        "lng": -49.5190773,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.136184692382812,
+                -49.601470947265625,
+                -26.890989303588867,
+                -49.455848693847656
+            ],
+            "name": "Ibirama, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.0537014,
+                    -49.5190773
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Ibirama, Brazil",
+                "locality": "Ibirama"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.0537014,
+                        -49.5190773
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Icara, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.67052459716797,
+                -49.172630310058594
+            ],
+            "southwest": [
+                -28.86438751220703,
+                -49.357120513916016
+            ]
+        },
+        "city": "Icara",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.71165466,
+        "lng": -49.29714584,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.86438751220703,
+                -49.357120513916016,
+                -28.67052459716797,
+                -49.172630310058594
+            ],
+            "name": "Içara, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.71165466,
+                    -49.29714584
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Içara, Brazil",
+                "locality": "Içara"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.71165466,
+                        -49.29714584
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Imarui, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.071582794189453,
+                -48.72425842285156
+            ],
+            "southwest": [
+                -28.361347198486328,
+                -48.95901107788086
+            ]
+        },
+        "city": "Imarui",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.34404945,
+        "lng": -48.8151741,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.361347198486328,
+                -48.95901107788086,
+                -28.071582794189453,
+                -48.72425842285156
+            ],
+            "name": "Imaruí, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.34404945,
+                    -48.8151741
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Imaruí, Brazil",
+                "locality": "Imaruí"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.34404945,
+                        -48.8151741
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Imbituba, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.082563400268555,
+                -48.60033416748047
+            ],
+            "southwest": [
+                -28.352304458618164,
+                -48.7606086730957
+            ]
+        },
+        "city": "Imbituba",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.24182701,
+        "lng": -48.66434479,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.352304458618164,
+                -48.7606086730957,
+                -28.082563400268555,
+                -48.60033416748047
+            ],
+            "name": "Imbituba, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.24182701,
+                    -48.66434479
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Imbituba, Brazil",
+                "locality": "Imbituba"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.24182701,
+                        -48.66434479
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Indaial, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.830530166625977,
+                -49.12799072265625
+            ],
+            "southwest": [
+                -27.16404914855957,
+                -49.32505416870117
+            ]
+        },
+        "city": "Indaial",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.89017487,
+        "lng": -49.24167252,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.16404914855957,
+                -49.32505416870117,
+                -26.830530166625977,
+                -49.12799072265625
+            ],
+            "name": "Indaial, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.89017487,
+                    -49.24167252
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Indaial, Brazil",
+                "locality": "Indaial"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.89017487,
+                        -49.24167252
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Itaiopolis, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.230785369873047,
+                -49.65365982055664
+            ],
+            "southwest": [
+                -26.785749435424805,
+                -50.12770462036133
+            ]
+        },
+        "city": "Itaiopolis",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.33918953,
+        "lng": -49.90719986,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.785749435424805,
+                -50.12770462036133,
+                -26.230785369873047,
+                -49.65365982055664
+            ],
+            "name": "Itaiópolis, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.33918953,
+                    -49.90719986
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Itaiópolis, Brazil",
+                "locality": "Itaiópolis"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.33918953,
+                        -49.90719986
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Itajai, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.837799072265625,
+                -48.621334075927734
+            ],
+            "southwest": [
+                -27.096010208129883,
+                -48.86901092529297
+            ]
+        },
+        "city": "Itajai",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.90467834,
+        "lng": -48.65529633,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.096010208129883,
+                -48.86901092529297,
+                -26.837799072265625,
+                -48.621334075927734
+            ],
+            "name": "Itajaí, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.90467834,
+                    -48.65529633
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Itajaí, Brazil",
+                "locality": "Itajaí"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.90467834,
+                        -48.65529633
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Itapema, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.04625701904297,
+                -48.58530044555664
+            ],
+            "southwest": [
+                -27.151443481445312,
+                -48.68901062011719
+            ]
+        },
+        "city": "Itapema",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -27.09472084,
+        "lng": -48.61377716,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.151443481445312,
+                -48.68901062011719,
+                -27.04625701904297,
+                -48.58530044555664
+            ],
+            "name": "Itapema, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.09472084,
+                    -48.61377716
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Itapema, Brazil",
+                "locality": "Itapema"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.09472084,
+                        -48.61377716
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Ituporanga, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.30542755126953,
+                -49.381351470947266
+            ],
+            "southwest": [
+                -27.584535598754883,
+                -49.69350814819336
+            ]
+        },
+        "city": "Ituporanga",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.40962219,
+        "lng": -49.60148239,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.584535598754883,
+                -49.69350814819336,
+                -27.30542755126953,
+                -49.381351470947266
+            ],
+            "name": "Ituporanga, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.40962219,
+                    -49.60148239
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Ituporanga, Brazil",
+                "locality": "Ituporanga"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.40962219,
+                        -49.60148239
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Jacinto Machado, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.879581451416016,
+                -49.696617126464844
+            ],
+            "southwest": [
+                -29.121803283691406,
+                -50.0053825378418
+            ]
+        },
+        "city": "Jacinto Machado",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.99933815,
+        "lng": -49.76031876,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -29.121803283691406,
+                -50.0053825378418,
+                -28.879581451416016,
+                -49.696617126464844
+            ],
+            "name": "Jacinto Machado, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.99933815,
+                    -49.76031876
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Jacinto Machado, Brazil",
+                "locality": "Jacinto Machado"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.99933815,
+                        -49.76031876
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Jaguaruna, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.533432006835938,
+                -48.857940673828125
+            ],
+            "southwest": [
+                -28.804420471191406,
+                -49.20780563354492
+            ]
+        },
+        "city": "Jaguaruna",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.62373734,
+        "lng": -49.02886581,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.804420471191406,
+                -49.20780563354492,
+                -28.533432006835938,
+                -48.857940673828125
+            ],
+            "name": "Jaguaruna, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.62373734,
+                    -49.02886581
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Jaguaruna, Brazil",
+                "locality": "Jaguaruna"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.62373734,
+                        -49.02886581
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Jaragua do Sul, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.216602325439453,
+                -49.014732360839844
+            ],
+            "southwest": [
+                -26.648874282836914,
+                -49.29744338989258
+            ]
+        },
+        "city": "Jaragua do Sul",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.48974228,
+        "lng": -49.07780457,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.648874282836914,
+                -49.29744338989258,
+                -26.216602325439453,
+                -49.014732360839844
+            ],
+            "name": "Jaraguá do Sul, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.48974228,
+                    -49.07780457
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Jaraguá do Sul, Brazil",
+                "locality": "Jaraguá do Sul"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.48974228,
+                        -49.07780457
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Joacaba, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.040990829467773,
+                -51.48026657104492
+            ],
+            "southwest": [
+                -27.242094039916992,
+                -51.69203567504883
+            ]
+        },
+        "city": "Joacaba",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.17372131,
+        "lng": -51.50652313,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.242094039916992,
+                -51.69203567504883,
+                -27.040990829467773,
+                -51.48026657104492
+            ],
+            "name": "Joaçaba, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.17372131,
+                    -51.50652313
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Joaçaba, Brazil",
+                "locality": "Joaçaba"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.17372131,
+                        -51.50652313
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Joinville, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.074228286743164,
+                -48.72324752807617
+            ],
+            "southwest": [
+                -26.452138900756836,
+                -49.20085144042969
+            ]
+        },
+        "city": "Joinville",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.30448914,
+        "lng": -48.84867096,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.452138900756836,
+                -49.20085144042969,
+                -26.074228286743164,
+                -48.72324752807617
+            ],
+            "name": "Joinville, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.30448914,
+                    -48.84867096
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Joinville, Brazil",
+                "locality": "Joinville"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.30448914,
+                        -48.84867096
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Lages, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.56907081604004,
+                -49.998199462890625
+            ],
+            "southwest": [
+                -28.433353424072266,
+                -50.696414947509766
+            ]
+        },
+        "city": "Lages",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.81656647,
+        "lng": -50.32588196,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.433353424072266,
+                -50.696414947509766,
+                -27.56907081604004,
+                -49.998199462890625
+            ],
+            "name": "Lages, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.81656647,
+                    -50.32588196
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Lages, Brazil",
+                "locality": "Lages"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.81656647,
+                        -50.32588196
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Laguna, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.324848175048828,
+                -48.70604705810547
+            ],
+            "southwest": [
+                -28.615781784057617,
+                -48.943973541259766
+            ]
+        },
+        "city": "Laguna",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.48374367,
+        "lng": -48.78165817,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.615781784057617,
+                -48.943973541259766,
+                -28.324848175048828,
+                -48.70604705810547
+            ],
+            "name": "Laguna, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.48374367,
+                    -48.78165817
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Laguna, Brazil",
+                "locality": "Laguna"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.48374367,
+                        -48.78165817
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Laurentino, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.143888473510742,
+                -49.68478775024414
+            ],
+            "southwest": [
+                -27.26282501220703,
+                -49.80335235595703
+            ]
+        },
+        "city": "Laurentino",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -27.2193222,
+        "lng": -49.73228455,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.26282501220703,
+                -49.80335235595703,
+                -27.143888473510742,
+                -49.68478775024414
+            ],
+            "name": "Laurentino, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.2193222,
+                    -49.73228455
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Laurentino, Brazil",
+                "locality": "Laurentino"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.2193222,
+                        -49.73228455
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Lauro Muller, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.302892684936523,
+                -49.33298873901367
+            ],
+            "southwest": [
+                -28.46483039855957,
+                -49.5674934387207
+            ]
+        },
+        "city": "Lauro Muller",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.39422417,
+        "lng": -49.39754105,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.46483039855957,
+                -49.5674934387207,
+                -28.302892684936523,
+                -49.33298873901367
+            ],
+            "name": "Lauro Müller, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.39422417,
+                    -49.39754105
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Lauro Müller, Brazil",
+                "locality": "Lauro Müller"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.39422417,
+                        -49.39754105
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Lontras, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.078798294067383,
+                -49.440269470214844
+            ],
+            "southwest": [
+                -27.30083465576172,
+                -49.592037200927734
+            ]
+        },
+        "city": "Lontras",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.16798973,
+        "lng": -49.5424614,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.30083465576172,
+                -49.592037200927734,
+                -27.078798294067383,
+                -49.440269470214844
+            ],
+            "name": "Lontras, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.16798973,
+                    -49.5424614
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Lontras, Brazil",
+                "locality": "Lontras"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.16798973,
+                        -49.5424614
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Luiz Alves, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.626989364624023,
+                -48.792327880859375
+            ],
+            "southwest": [
+                -26.823009490966797,
+                -49.03549575805664
+            ]
+        },
+        "city": "Luiz Alves",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.71185684,
+        "lng": -48.91267395,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.823009490966797,
+                -49.03549575805664,
+                -26.626989364624023,
+                -48.792327880859375
+            ],
+            "name": "Luiz Alves, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.71185684,
+                    -48.91267395
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Luiz Alves, Brazil",
+                "locality": "Luiz Alves"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.71185684,
+                        -48.91267395
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Mafra, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.00836753845215,
+                -49.60292434692383
+            ],
+            "southwest": [
+                -26.48801040649414,
+                -50.20796585083008
+            ]
+        },
+        "city": "Mafra",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.11509514,
+        "lng": -49.8035965,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.48801040649414,
+                -50.20796585083008,
+                -26.00836753845215,
+                -49.60292434692383
+            ],
+            "name": "Mafra, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.11509514,
+                    -49.8035965
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Mafra, Brazil",
+                "locality": "Mafra"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.11509514,
+                        -49.8035965
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Massaranduba, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.515283584594727,
+                -48.851585388183594
+            ],
+            "southwest": [
+                -26.773462295532227,
+                -49.11435317993164
+            ]
+        },
+        "city": "Massaranduba",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.61086845,
+        "lng": -49.00535202,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.773462295532227,
+                -49.11435317993164,
+                -26.515283584594727,
+                -48.851585388183594
+            ],
+            "name": "Massaranduba, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.61086845,
+                    -49.00535202
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Massaranduba, Brazil",
+                "locality": "Massaranduba"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.61086845,
+                        -49.00535202
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Monte Castelo, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.443552017211914,
+                -50.16901397705078
+            ],
+            "southwest": [
+                -26.853824615478516,
+                -50.441070556640625
+            ]
+        },
+        "city": "Monte Castelo",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.460989,
+        "lng": -50.23272324,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.853824615478516,
+                -50.441070556640625,
+                -26.443552017211914,
+                -50.16901397705078
+            ],
+            "name": "Monte Castelo, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.460989,
+                    -50.23272324
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Monte Castelo, Brazil",
+                "locality": "Monte Castelo"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.460989,
+                        -50.23272324
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Morro da Fumaca, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.589418411254883,
+                -49.17477035522461
+            ],
+            "southwest": [
+                -28.68593406677246,
+                -49.35926818847656
+            ]
+        },
+        "city": "Morro da Fumaca",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -28.6522274,
+        "lng": -49.21339798,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.68593406677246,
+                -49.35926818847656,
+                -28.589418411254883,
+                -49.17477035522461
+            ],
+            "name": "Morro da Fumaça, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.6522274,
+                    -49.21339798
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Morro da Fumaça, Brazil",
+                "locality": "Morro da Fumaça"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.6522274,
+                        -49.21339798
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Navegantes, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.739990234375,
+                -48.61989212036133
+            ],
+            "southwest": [
+                -26.913818359375,
+                -48.82460403442383
+            ]
+        },
+        "city": "Navegantes",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.88988113,
+        "lng": -48.64958191,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.913818359375,
+                -48.82460403442383,
+                -26.739990234375,
+                -48.61989212036133
+            ],
+            "name": "Navegantes, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.88988113,
+                    -48.64958191
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Navegantes, Brazil",
+                "locality": "Navegantes"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.88988113,
+                        -48.64958191
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Orleans, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.12561798095703,
+                -49.18979263305664
+            ],
+            "southwest": [
+                -28.43388557434082,
+                -49.549705505371094
+            ]
+        },
+        "city": "Orleans",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.35726929,
+        "lng": -49.28724289,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.43388557434082,
+                -49.549705505371094,
+                -28.12561798095703,
+                -49.18979263305664
+            ],
+            "name": "Orleans, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.35726929,
+                    -49.28724289
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Orleans, Brazil",
+                "locality": "Orleans"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.35726929,
+                        -49.28724289
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Nova Trento, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.181989669799805,
+                -48.865989685058594
+            ],
+            "southwest": [
+                -27.425010681152344,
+                -49.2263298034668
+            ]
+        },
+        "city": "Nova Trento",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.28626251,
+        "lng": -48.93026352,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.425010681152344,
+                -49.2263298034668,
+                -27.181989669799805,
+                -48.865989685058594
+            ],
+            "name": "Nova Trento, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.28626251,
+                    -48.93026352
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Nova Trento, Brazil",
+                "locality": "Nova Trento"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.28626251,
+                        -48.93026352
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Nova Veneza, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.618677139282227,
+                -49.451107025146484
+            ],
+            "southwest": [
+                -28.776010513305664,
+                -49.712337493896484
+            ]
+        },
+        "city": "Nova Veneza",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.63737106,
+        "lng": -49.49976349,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.776010513305664,
+                -49.712337493896484,
+                -28.618677139282227,
+                -49.451107025146484
+            ],
+            "name": "Nova Veneza, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.63737106,
+                    -49.49976349
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Nova Veneza, Brazil",
+                "locality": "Nova Veneza"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.63737106,
+                        -49.49976349
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Palhoca, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.60666275024414,
+                -48.57310104370117
+            ],
+            "southwest": [
+                -27.917068481445312,
+                -48.74853515625
+            ]
+        },
+        "city": "Palhoca",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.6447773,
+        "lng": -48.66463089,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.917068481445312,
+                -48.74853515625,
+                -27.60666275024414,
+                -48.57310104370117
+            ],
+            "name": "Palhoça, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.6447773,
+                    -48.66463089
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Palhoça, Brazil",
+                "locality": "Palhoça"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.6447773,
+                        -48.66463089
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Papanduva, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.20552635192871,
+                -50.07011413574219
+            ],
+            "southwest": [
+                -26.816009521484375,
+                -50.293521881103516
+            ]
+        },
+        "city": "Papanduva",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.40854454,
+        "lng": -50.14241028,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.816009521484375,
+                -50.293521881103516,
+                -26.20552635192871,
+                -50.07011413574219
+            ],
+            "name": "Papanduva, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.40854454,
+                    -50.14241028
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Papanduva, Brazil",
+                "locality": "Papanduva"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.40854454,
+                        -50.14241028
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Penha, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.742979049682617,
+                -48.583736419677734
+            ],
+            "southwest": [
+                -26.845300674438477,
+                -48.71156311035156
+            ]
+        },
+        "city": "Penha",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -26.77541733,
+        "lng": -48.64652634,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.845300674438477,
+                -48.71156311035156,
+                -26.742979049682617,
+                -48.583736419677734
+            ],
+            "name": "Penha, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.77541733,
+                    -48.64652634
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Penha, Brazil",
+                "locality": "Penha"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.77541733,
+                        -48.64652634
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Penha, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.742979049682617,
+                -48.583736419677734
+            ],
+            "southwest": [
+                -26.845300674438477,
+                -48.71156311035156
+            ]
+        },
+        "city": "Penha",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -26.77541733,
+        "lng": -48.64652634,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.845300674438477,
+                -48.71156311035156,
+                -26.742979049682617,
+                -48.583736419677734
+            ],
+            "name": "Penha, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.77541733,
+                    -48.64652634
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Penha, Brazil",
+                "locality": "Penha"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.77541733,
+                        -48.64652634
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Ponte Serrada, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.75387191772461,
+                -51.67898941040039
+            ],
+            "southwest": [
+                -26.960729598999023,
+                -52.16634750366211
+            ]
+        },
+        "city": "Ponte Serrada",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.87085724,
+        "lng": -52.01640701,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.960729598999023,
+                -52.16634750366211,
+                -26.75387191772461,
+                -51.67898941040039
+            ],
+            "name": "Ponte Serrada, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.87085724,
+                    -52.01640701
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Ponte Serrada, Brazil",
+                "locality": "Ponte Serrada"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.87085724,
+                        -52.01640701
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Porto Belo, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.110363006591797,
+                -48.50773239135742
+            ],
+            "southwest": [
+                -27.22041893005371,
+                -48.692081451416016
+            ]
+        },
+        "city": "Porto Belo",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -27.15424156,
+        "lng": -48.54243851,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.22041893005371,
+                -48.692081451416016,
+                -27.110363006591797,
+                -48.50773239135742
+            ],
+            "name": "Porto Belo, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.15424156,
+                    -48.54243851
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Porto Belo, Brazil",
+                "locality": "Porto Belo"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.15424156,
+                        -48.54243851
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Porto Uniao, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.22743034362793,
+                -50.784706115722656
+            ],
+            "southwest": [
+                -26.5602970123291,
+                -51.26780700683594
+            ]
+        },
+        "city": "Porto Uniao",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.23364067,
+        "lng": -51.0827713,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.5602970123291,
+                -51.26780700683594,
+                -26.22743034362793,
+                -50.784706115722656
+            ],
+            "name": "Porto União, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.23364067,
+                    -51.0827713
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Porto União, Brazil",
+                "locality": "Porto União"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.23364067,
+                        -51.0827713
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Presidente Getulio, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.924989700317383,
+                -49.576988220214844
+            ],
+            "southwest": [
+                -27.148752212524414,
+                -49.84701156616211
+            ]
+        },
+        "city": "Presidente Getulio",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.04262543,
+        "lng": -49.62104416,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.148752212524414,
+                -49.84701156616211,
+                -26.924989700317383,
+                -49.576988220214844
+            ],
+            "name": "Presidente Getúlio, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.04262543,
+                    -49.62104416
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Presidente Getúlio, Brazil",
+                "locality": "Presidente Getúlio"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.04262543,
+                        -49.62104416
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Quitandinha, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.254764556884766,
+                -49.529640197753906
+            ],
+            "southwest": [
+                -26.268739700317383,
+                -49.54597473144531
+            ]
+        },
+        "city": "Rio Negrinho",
+        "confidence": 7,
+        "country": "Brazil",
+        "lat": -26.26252365,
+        "lng": -49.53907776,
+        "neighborhood": "Quitandinha",
+        "ok": true,
+        "quality": "Neighborhood",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.268739700317383,
+                -49.54597473144531,
+                -26.254764556884766,
+                -49.529640197753906
+            ],
+            "name": "Quitandinha, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.26252365,
+                    -49.53907776
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Quitandinha, Brazil",
+                "locality": "Rio Negrinho",
+                "neighborhood": "Quitandinha"
+            },
+            "confidence": "High",
+            "entityType": "Neighborhood",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.26252365,
+                        -49.53907776
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Rio do Sul, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.080028533935547,
+                -49.527244567871094
+            ],
+            "southwest": [
+                -27.29129981994629,
+                -49.717742919921875
+            ]
+        },
+        "city": "Rio do Sul",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.21626091,
+        "lng": -49.64365387,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.29129981994629,
+                -49.717742919921875,
+                -27.080028533935547,
+                -49.527244567871094
+            ],
+            "name": "Rio do Sul, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.21626091,
+                    -49.64365387
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Rio do Sul, Brazil",
+                "locality": "Rio do Sul"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.21626091,
+                        -49.64365387
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Rio dos Cedros, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.48798942565918,
+                -49.21425247192383
+            ],
+            "southwest": [
+                -26.77202606201172,
+                -49.56501007080078
+            ]
+        },
+        "city": "Rio dos Cedros",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.73977661,
+        "lng": -49.2718277,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.77202606201172,
+                -49.56501007080078,
+                -26.48798942565918,
+                -49.21425247192383
+            ],
+            "name": "Rio dos Cedros, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.73977661,
+                    -49.2718277
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Rio dos Cedros, Brazil",
+                "locality": "Rio dos Cedros"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.73977661,
+                        -49.2718277
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Rio Negrinho, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.193941116333008,
+                -49.43899154663086
+            ],
+            "southwest": [
+                -26.70301055908203,
+                -49.761898040771484
+            ]
+        },
+        "city": "Rio Negrinho",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.25907516,
+        "lng": -49.51774597,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.70301055908203,
+                -49.761898040771484,
+                -26.193941116333008,
+                -49.43899154663086
+            ],
+            "name": "Rio Negrinho, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.25907516,
+                    -49.51774597
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Rio Negrinho, Brazil",
+                "locality": "Rio Negrinho"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.25907516,
+                        -49.51774597
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Rio Negro, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.867809631045528,
+                -49.362290522022924
+            ],
+            "southwest": [
+                -28.925750397030644,
+                -49.450507024363795
+            ]
+        },
+        "city": "Rio Negro",
+        "confidence": 4,
+        "country": "Brazil",
+        "lat": -28.89678001,
+        "lng": -49.40639877,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.925750397030644,
+                -49.450507024363795,
+                -28.867809631045528,
+                -49.362290522022924
+            ],
+            "name": "Rio Negro, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.89678001,
+                    -49.40639877
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Rio Negro, Brazil",
+                "locality": "Rio Negro"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.89678001,
+                        -49.40639877
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Rodeio, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.806989669799805,
+                -49.28962326049805
+            ],
+            "southwest": [
+                -26.96600914001465,
+                -49.43400955200195
+            ]
+        },
+        "city": "Rodeio",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -26.92333031,
+        "lng": -49.36853409,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.96600914001465,
+                -49.43400955200195,
+                -26.806989669799805,
+                -49.28962326049805
+            ],
+            "name": "Rodeio, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.92333031,
+                    -49.36853409
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Rodeio, Brazil",
+                "locality": "Rodeio"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.92333031,
+                        -49.36853409
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sangao, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.59299087524414,
+                -49.07019805908203
+            ],
+            "southwest": [
+                -28.70327377319336,
+                -49.18130874633789
+            ]
+        },
+        "city": "Sangao",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -28.63975143,
+        "lng": -49.1266098,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.70327377319336,
+                -49.18130874633789,
+                -28.59299087524414,
+                -49.07019805908203
+            ],
+            "name": "Sangão, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.63975143,
+                    -49.1266098
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Sangão, Brazil",
+                "locality": "Sangão"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.63975143,
+                        -49.1266098
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sangao, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.59299087524414,
+                -49.07019805908203
+            ],
+            "southwest": [
+                -28.70327377319336,
+                -49.18130874633789
+            ]
+        },
+        "city": "Sangao",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -28.63975143,
+        "lng": -49.1266098,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.70327377319336,
+                -49.18130874633789,
+                -28.59299087524414,
+                -49.07019805908203
+            ],
+            "name": "Sangão, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.63975143,
+                    -49.1266098
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Sangão, Brazil",
+                "locality": "Sangão"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.63975143,
+                        -49.1266098
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Santa Rosa do Sul, Brazil",
+        "bbox": {
+            "northeast": [
+                -29.038990020751953,
+                -49.65632247924805
+            ],
+            "southwest": [
+                -29.206666946411133,
+                -49.83415222167969
+            ]
+        },
+        "city": "Santa Rosa do Sul",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -29.13549614,
+        "lng": -49.71541977,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -29.206666946411133,
+                -49.83415222167969,
+                -29.038990020751953,
+                -49.65632247924805
+            ],
+            "name": "Santa Rosa do Sul, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -29.13549614,
+                    -49.71541977
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Santa Rosa do Sul, Brazil",
+                "locality": "Santa Rosa do Sul"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -29.13549614,
+                        -49.71541977
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Santo Amaro da Imperatriz, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.613605499267578,
+                -48.6749267578125
+            ],
+            "southwest": [
+                -27.875009536743164,
+                -48.91300964355469
+            ]
+        },
+        "city": "Santo Amaro da Imperatriz",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.68653297,
+        "lng": -48.77693939,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.875009536743164,
+                -48.91300964355469,
+                -27.613605499267578,
+                -48.6749267578125
+            ],
+            "name": "Santo Amaro da Imperatriz, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.68653297,
+                    -48.77693939
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Santo Amaro da Imperatriz, Brazil",
+                "locality": "Santo Amaro da Imperatriz"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.68653297,
+                        -48.77693939
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sao Bento do Sul, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.161962509155273,
+                -49.16938400268555
+            ],
+            "southwest": [
+                -26.426010131835938,
+                -49.49074172973633
+            ]
+        },
+        "city": "Sao Bento do Sul",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.24836731,
+        "lng": -49.38206863,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.426010131835938,
+                -49.49074172973633,
+                -26.161962509155273,
+                -49.16938400268555
+            ],
+            "name": "São Bento do Sul, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.24836731,
+                    -49.38206863
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "São Bento do Sul, Brazil",
+                "locality": "São Bento do Sul"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.24836731,
+                        -49.38206863
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sao Francisco do Sul, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.12779426574707,
+                -48.48078918457031
+            ],
+            "southwest": [
+                -26.469097137451172,
+                -48.786888122558594
+            ]
+        },
+        "city": "Sao Francisco do Sul",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.2495079,
+        "lng": -48.63080978,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.469097137451172,
+                -48.786888122558594,
+                -26.12779426574707,
+                -48.48078918457031
+            ],
+            "name": "São Francisco do Sul, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.2495079,
+                    -48.63080978
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "São Francisco do Sul, Brazil",
+                "locality": "São Francisco do Sul"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.2495079,
+                        -48.63080978
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sao Joao Batista, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.218990325927734,
+                -48.785484313964844
+            ],
+            "southwest": [
+                -27.44400978088379,
+                -48.97100830078125
+            ]
+        },
+        "city": "Sao Joao Batista",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.27754784,
+        "lng": -48.84960938,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.44400978088379,
+                -48.97100830078125,
+                -27.218990325927734,
+                -48.785484313964844
+            ],
+            "name": "São João Batista, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.27754784,
+                    -48.84960938
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "São João Batista, Brazil",
+                "locality": "São João Batista"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.27754784,
+                        -48.84960938
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sao Jose, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.516990661621094,
+                -48.567989349365234
+            ],
+            "southwest": [
+                -27.6610107421875,
+                -48.746009826660156
+            ]
+        },
+        "city": "Sao Jose",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -27.61577415,
+        "lng": -48.6276474,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.6610107421875,
+                -48.746009826660156,
+                -27.516990661621094,
+                -48.567989349365234
+            ],
+            "name": "São José, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.61577415,
+                    -48.6276474
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "São José, Brazil",
+                "locality": "São José"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.61577415,
+                        -48.6276474
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sao Ludgero, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.288406372070312,
+                -49.101383209228516
+            ],
+            "southwest": [
+                -28.41432762145996,
+                -49.22626495361328
+            ]
+        },
+        "city": "Sao Ludgero",
+        "confidence": 3,
+        "country": "Brazil",
+        "lat": -28.32438278,
+        "lng": -49.17481995,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.41432762145996,
+                -49.22626495361328,
+                -28.288406372070312,
+                -49.101383209228516
+            ],
+            "name": "São Ludgero, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.32438278,
+                    -49.17481995
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "São Ludgero, Brazil",
+                "locality": "São Ludgero"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.32438278,
+                        -49.17481995
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Schroeder, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.261301040649414,
+                -48.97898864746094
+            ],
+            "southwest": [
+                -26.45761489868164,
+                -49.14625930786133
+            ]
+        },
+        "city": "Schroeder",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.4115715,
+        "lng": -49.07403946,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.45761489868164,
+                -49.14625930786133,
+                -26.261301040649414,
+                -48.97898864746094
+            ],
+            "name": "Schroeder, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.4115715,
+                    -49.07403946
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Schroeder, Brazil",
+                "locality": "Schroeder"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.4115715,
+                        -49.07403946
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Seara, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.02499008178711,
+                -52.21598815917969
+            ],
+            "southwest": [
+                -27.240009307861328,
+                -52.518333435058594
+            ]
+        },
+        "city": "Seara",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.15285873,
+        "lng": -52.30970001,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.240009307861328,
+                -52.518333435058594,
+                -27.02499008178711,
+                -52.21598815917969
+            ],
+            "name": "Seara, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.15285873,
+                    -52.30970001
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Seara, Brazil",
+                "locality": "Seara"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.15285873,
+                        -52.30970001
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sideropolis, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.499773025512695,
+                -49.369991302490234
+            ],
+            "southwest": [
+                -28.637897491455078,
+                -49.67611312866211
+            ]
+        },
+        "city": "Sideropolis",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.59758759,
+        "lng": -49.42499924,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.637897491455078,
+                -49.67611312866211,
+                -28.499773025512695,
+                -49.369991302490234
+            ],
+            "name": "Siderópolis, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.59758759,
+                    -49.42499924
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Siderópolis, Brazil",
+                "locality": "Siderópolis"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.59758759,
+                        -49.42499924
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Sombrio, Brazil",
+        "bbox": {
+            "northeast": [
+                -29.017772674560547,
+                -49.56394577026367
+            ],
+            "southwest": [
+                -29.14304542541504,
+                -49.74501037597656
+            ]
+        },
+        "city": "Sombrio",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -29.10798454,
+        "lng": -49.63277435,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -29.14304542541504,
+                -49.74501037597656,
+                -29.017772674560547,
+                -49.56394577026367
+            ],
+            "name": "Sombrio, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -29.10798454,
+                    -49.63277435
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Sombrio, Brazil",
+                "locality": "Sombrio"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -29.10798454,
+                        -49.63277435
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Tijucas, Brazil",
+        "bbox": {
+            "northeast": [
+                -27.133989334106445,
+                -48.594940185546875
+            ],
+            "southwest": [
+                -27.3540096282959,
+                -48.80900955200195
+            ]
+        },
+        "city": "Tijucas",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.23940468,
+        "lng": -48.63536835,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.3540096282959,
+                -48.80900955200195,
+                -27.133989334106445,
+                -48.594940185546875
+            ],
+            "name": "Tijucas, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.23940468,
+                    -48.63536835
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Tijucas, Brazil",
+                "locality": "Tijucas"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.23940468,
+                        -48.63536835
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Timbo, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.74595069885254,
+                -49.19898986816406
+            ],
+            "southwest": [
+                -26.880441665649414,
+                -49.33900833129883
+            ]
+        },
+        "city": "Timbo",
+        "confidence": 2,
+        "country": "Brazil",
+        "lat": -26.82827377,
+        "lng": -49.27064133,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.880441665649414,
+                -49.33900833129883,
+                -26.74595069885254,
+                -49.19898986816406
+            ],
+            "name": "Timbó, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.82827377,
+                    -49.27064133
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Timbó, Brazil",
+                "locality": "Timbó"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.82827377,
+                        -49.27064133
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Tres Barras, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.03041648864746,
+                -50.124786376953125
+            ],
+            "southwest": [
+                -26.308332443237305,
+                -50.391117095947266
+            ]
+        },
+        "city": "Tres Barras",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.10563278,
+        "lng": -50.3196907,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.308332443237305,
+                -50.391117095947266,
+                -26.03041648864746,
+                -50.124786376953125
+            ],
+            "name": "Três Barras, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.10563278,
+                    -50.3196907
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Três Barras, Brazil",
+                "locality": "Três Barras"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.10563278,
+                        -50.3196907
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Treze de Maio, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.497724533081055,
+                -49.02997970581055
+            ],
+            "southwest": [
+                -28.641395568847656,
+                -49.2432975769043
+            ]
+        },
+        "city": "Treze de Maio",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.55744171,
+        "lng": -49.14476013,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.641395568847656,
+                -49.2432975769043,
+                -28.497724533081055,
+                -49.02997970581055
+            ],
+            "name": "Treze de Maio, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.55744171,
+                    -49.14476013
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Treze de Maio, Brazil",
+                "locality": "Treze de Maio"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.55744171,
+                        -49.14476013
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Tubarao, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.362627029418945,
+                -48.902103424072266
+            ],
+            "southwest": [
+                -28.59473991394043,
+                -49.18461227416992
+            ]
+        },
+        "city": "Tubarao",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.47148895,
+        "lng": -49.01413345,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.59473991394043,
+                -49.18461227416992,
+                -28.362627029418945,
+                -48.902103424072266
+            ],
+            "name": "Tubarão, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.47148895,
+                    -49.01413345
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Tubarão, Brazil",
+                "locality": "Tubarão"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.47148895,
+                        -49.01413345
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Santa Catarina",
+        "bbox": {
+            "northeast": [
+                -25.95570945739746,
+                -48.32766342163086
+            ],
+            "southwest": [
+                -29.351816177368164,
+                -53.83735656738281
+            ]
+        },
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.59984016,
+        "lng": -48.54182053,
+        "ok": true,
+        "quality": "AdminDivision1",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -29.351816177368164,
+                -53.83735656738281,
+                -25.95570945739746,
+                -48.32766342163086
+            ],
+            "name": "Santa Catarina",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.59984016,
+                    -48.54182053
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Santa Catarina"
+            },
+            "confidence": "High",
+            "entityType": "AdminDivision1",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.59984016,
+                        -48.54182053
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Uniao da Vitoria, Brazil",
+        "bbox": {
+            "northeast": [
+                -25.93998908996582,
+                -50.89699172973633
+            ],
+            "southwest": [
+                -26.30178451538086,
+                -51.283966064453125
+            ]
+        },
+        "city": "Uniao da Vitoria",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.22859573,
+        "lng": -51.08697891,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -26.30178451538086,
+                -51.283966064453125,
+                -25.93998908996582,
+                -50.89699172973633
+            ],
+            "name": "União da Vitória, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.22859573,
+                    -51.08697891
+                ]
+            },
+            "address": {
+                "adminDistrict": "PR",
+                "countryRegion": "Brazil",
+                "formattedAddress": "União da Vitória, Brazil",
+                "locality": "União da Vitória"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.22859573,
+                        -51.08697891
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "UpHierarchy"
+            ]
+        },
+        "state": "PR",
+        "status": "OK"
+    },
+    {
+        "address": "Urussanga, Brazil",
+        "bbox": {
+            "northeast": [
+                -28.39565658569336,
+                -49.21331787109375
+            ],
+            "southwest": [
+                -28.58713722229004,
+                -49.4281120300293
+            ]
+        },
+        "city": "Urussanga",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -28.51913834,
+        "lng": -49.32017899,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -28.58713722229004,
+                -49.4281120300293,
+                -28.39565658569336,
+                -49.21331787109375
+            ],
+            "name": "Urussanga, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -28.51913834,
+                    -49.32017899
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Urussanga, Brazil",
+                "locality": "Urussanga"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -28.51913834,
+                        -49.32017899
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Videira, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.849287033081055,
+                -50.96811294555664
+            ],
+            "southwest": [
+                -27.127891540527344,
+                -51.287574768066406
+            ]
+        },
+        "city": "Videira",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -27.00543976,
+        "lng": -51.15337372,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.127891540527344,
+                -51.287574768066406,
+                -26.849287033081055,
+                -50.96811294555664
+            ],
+            "name": "Videira, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -27.00543976,
+                    -51.15337372
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Videira, Brazil",
+                "locality": "Videira"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -27.00543976,
+                        -51.15337372
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Xanxere, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.74898910522461,
+                -52.294944763183594
+            ],
+            "southwest": [
+                -27.01207160949707,
+                -52.53397750854492
+            ]
+        },
+        "city": "Xanxere",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.87486076,
+        "lng": -52.40359497,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.01207160949707,
+                -52.53397750854492,
+                -26.74898910522461,
+                -52.294944763183594
+            ],
+            "name": "Xanxerê, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.87486076,
+                    -52.40359497
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Xanxerê, Brazil",
+                "locality": "Xanxerê"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.87486076,
+                        -52.40359497
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Good"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    },
+    {
+        "address": "Xaxim, Brazil",
+        "bbox": {
+            "northeast": [
+                -26.85523223876953,
+                -52.43557357788086
+            ],
+            "southwest": [
+                -27.094789505004883,
+                -52.636009216308594
+            ]
+        },
+        "city": "Xaxim",
+        "confidence": 1,
+        "country": "Brazil",
+        "lat": -26.96053696,
+        "lng": -52.53355026,
+        "ok": true,
+        "quality": "PopulatedPlace",
+        "raw": {
+            "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+            "bbox": [
+                -27.094789505004883,
+                -52.636009216308594,
+                -26.85523223876953,
+                -52.43557357788086
+            ],
+            "name": "Xaxim, Brazil",
+            "point": {
+                "type": "Point",
+                "coordinates": [
+                    -26.96053696,
+                    -52.53355026
+                ]
+            },
+            "address": {
+                "adminDistrict": "SC",
+                "countryRegion": "Brazil",
+                "formattedAddress": "Xaxim, Brazil",
+                "locality": "Xaxim"
+            },
+            "confidence": "High",
+            "entityType": "PopulatedPlace",
+            "geocodePoints": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -26.96053696,
+                        -52.53355026
+                    ],
+                    "calculationMethod": "Rooftop",
+                    "usageTypes": [
+                        "Display"
+                    ]
+                }
+            ],
+            "matchCodes": [
+                "Ambiguous"
+            ]
+        },
+        "state": "SC",
+        "status": "OK"
+    }
+]
